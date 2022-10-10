@@ -1,0 +1,7 @@
+C:\Users\Clément\Documents\A3\Info\C#\CSharp 04.10 Seul bon\CSharp 04.10 Seul bon\bin\Debug\CSharp 04.10 Seul bon.exe.config
+C:\Users\Clément\Documents\A3\Info\C#\CSharp 04.10 Seul bon\CSharp 04.10 Seul bon\bin\Debug\CSharp 04.10 Seul bon.exe
+C:\Users\Clément\Documents\A3\Info\C#\CSharp 04.10 Seul bon\CSharp 04.10 Seul bon\bin\Debug\CSharp 04.10 Seul bon.pdb
+C:\Users\Clément\Documents\A3\Info\C#\CSharp 04.10 Seul bon\CSharp 04.10 Seul bon\obj\Debug\CSharp 04.10 Seul bon.csproj.AssemblyReference.cache
+C:\Users\Clément\Documents\A3\Info\C#\CSharp 04.10 Seul bon\CSharp 04.10 Seul bon\obj\Debug\CSharp 04.10 Seul bon.csproj.CoreCompileInputs.cache
+C:\Users\Clément\Documents\A3\Info\C#\CSharp 04.10 Seul bon\CSharp 04.10 Seul bon\obj\Debug\CSharp 04.10 Seul bon.exe
+C:\Users\Clément\Documents\A3\Info\C#\CSharp 04.10 Seul bon\CSharp 04.10 Seul bon\obj\Debug\CSharp 04.10 Seul bon.pdb
